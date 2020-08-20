@@ -10,9 +10,14 @@
   </component>
   <component name="CargoProjects">
     <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/client/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9fac0a22-0db7-4bdc-b4d2-6dbbd8825f95" name="Default Changelist" comment="" />
+    <list default="true" id="9fac0a22-0db7-4bdc-b4d2-6dbbd8825f95" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/multifactory.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/multifactory.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,6 +48,7 @@
     <property name="cf.first.check.clang-format" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
+    <property name="org.rust.disableDetachedFileInspectionC:/Users/sebas/Projects/tryworks/multifactory/client/src/main.rs" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -108,7 +114,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597928315509</updated>
-      <workItem from="1597928317637" duration="1449000" />
+      <workItem from="1597928317637" duration="2371000" />
     </task>
     <servers />
   </component>
@@ -124,21 +130,21 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1060" y="455" key="FileChooserDialogImpl/0.0.2560.1400/2560.497.1920.1040@0.0.2560.1400" timestamp="1597929522093" />
-    <state width="2517" height="394" key="GridCell.Tab.0.bottom" timestamp="1597929755354">
+    <state width="2517" height="394" key="GridCell.Tab.0.bottom" timestamp="1597929779510">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="394" key="GridCell.Tab.0.bottom/0.0.2560.1400/2560.497.1920.1040@0.0.2560.1400" timestamp="1597929755354" />
-    <state width="2517" height="394" key="GridCell.Tab.0.center" timestamp="1597929755354">
+    <state width="2517" height="394" key="GridCell.Tab.0.bottom/0.0.2560.1400/2560.497.1920.1040@0.0.2560.1400" timestamp="1597929779510" />
+    <state width="2517" height="394" key="GridCell.Tab.0.center" timestamp="1597929779510">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="394" key="GridCell.Tab.0.center/0.0.2560.1400/2560.497.1920.1040@0.0.2560.1400" timestamp="1597929755354" />
-    <state width="2517" height="394" key="GridCell.Tab.0.left" timestamp="1597929755354">
+    <state width="2517" height="394" key="GridCell.Tab.0.center/0.0.2560.1400/2560.497.1920.1040@0.0.2560.1400" timestamp="1597929779510" />
+    <state width="2517" height="394" key="GridCell.Tab.0.left" timestamp="1597929779510">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="394" key="GridCell.Tab.0.left/0.0.2560.1400/2560.497.1920.1040@0.0.2560.1400" timestamp="1597929755354" />
-    <state width="2517" height="394" key="GridCell.Tab.0.right" timestamp="1597929755354">
+    <state width="2517" height="394" key="GridCell.Tab.0.left/0.0.2560.1400/2560.497.1920.1040@0.0.2560.1400" timestamp="1597929779510" />
+    <state width="2517" height="394" key="GridCell.Tab.0.right" timestamp="1597929779510">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="394" key="GridCell.Tab.0.right/0.0.2560.1400/2560.497.1920.1040@0.0.2560.1400" timestamp="1597929755354" />
+    <state width="2517" height="394" key="GridCell.Tab.0.right/0.0.2560.1400/2560.497.1920.1040@0.0.2560.1400" timestamp="1597929779510" />
   </component>
 </project>
