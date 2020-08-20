@@ -8,3 +8,5 @@ edition = "2018"
 
 [dependencies]
 common = { version = "0.1", path = "../common" }
+tokio = { version = "0.2", features = ["full"] }
+dotenv = "0.15.0"
